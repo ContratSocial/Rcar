@@ -1,0 +1,8 @@
+item_current_content :
+une définition est une entrée portant le nom du terme qu'elle définit
+item_current_justification :
+non redondance
+item_previous_content :
+un terme ambigu doit être défini dans une entrée spécifique
+block_previous_sha1 :
+21323e05b62d3bc6d9f7581490a6339ceb0dd0c9

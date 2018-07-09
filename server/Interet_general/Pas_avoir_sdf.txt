@@ -1,0 +1,155 @@
+
+Information sur le bloc
+
+Date du commit : 2018-02-21 18:47:44 +0100
+
+Committeur : Collectif Willforge
+
+Sha1 du blob courant :
+39f19836aea115264ea14067a4a8e294815d595b
+
+Contenu de l’item courant :
+chacun a le droit à une vie décente
+
+Justification de l’item courant :
+précision
+
+Contenu de l’item précédent :
+chaque citoyen dispose d'un logement décent
+
+Sha1 du bloc précédent :
+7f245e2b6130075b022512bdde8e3de64fecf4b2
+
+Information sur le bloc
+
+Date du commit : 2018-02-21 18:15:24 +0100
+
+Committeur : Collectif Willforge
+
+Sha1 du blob courant :
+2aca1e49e058a79ac5a533922655b42f3a101762
+
+Contenu de l’item courant :
+chaque citoyen dispose d'un logement décent
+
+Justification de l’item courant :
+assertion
+
+Contenu de l’item précédent :
+chaque citoyen dispose d'un logement décent
+
+Sha1 du bloc précédent :
+c03013ec69e8b60943f12a089dd1217e9ad06bc3
+
+Information sur le bloc
+
+Date du commit : 2018-02-21 18:14:51 +0100
+
+Committeur : Collectif Willforge
+
+Sha1 du blob courant :
+0ae5057747a339c32aa0156b37b59a638f469bf2
+
+Contenu de l’item courant :
+chaque citoyen dispose d'un logement décent
+
+Justification de l’item courant :
+assertion
+
+Contenu de l’item précédent :
+chacun a droit à un logement décent
+
+Sha1 du bloc précédent :
+7aee2c8e361ccf30c1877e019cac22421a3f68aa
+
+Information sur le bloc
+
+Date du commit : 2018-02-20 18:42:08 +0100
+
+Committeur : Collectif Willforge
+
+Sha1 du blob courant :
+eaf3ac05eca34541bb47a7c4885aa71d850454ce
+
+Contenu de l’item courant :
+chacun a droit à un logement décent
+
+Justification de l’item courant :
+précision
+
+Contenu de l’item précédent :
+chacun a droit à un logement
+
+Sha1 du bloc précédent :
+c8234b2caa1888c85736ec906ff793b06fe337c9
+
+Information sur le bloc
+
+Date du commit : 2018-02-20 18:41:00 +0100
+
+Committeur : Collectif Willforge
+
+Sha1 du blob courant :
+a74eb2602a75eb1163e7388f6110c86108e4e5b9
+
+Contenu de l’item courant :
+chacun a droit à un logement
+
+Justification de l’item courant :
+généralisation
+
+Contenu de l’item précédent :
+personne ne devrait être contraint à vivre dans la rue
+
+Sha1 du bloc précédent :
+1e889a64b8f44962267a4eaf5db099fdbce17565
+
+Information sur le bloc
+
+Date du commit : 2018-02-20 18:39:58 +0100
+
+Committeur : Collectif Willforge
+
+Sha1 du blob courant :
+ecebe3dccac3d8872c7d5455604aacd7144b0ff8
+
+Contenu de l’item courant :
+personne ne devrait être contraint à vivre dans la rue
+
+Justification de l’item courant :
+clarification
+
+Contenu de l’item précédent :
+il ne devrait pas y avoir de SDF
+
+Sha1 du bloc précédent :
+349e327b662c187dbfec7834648252a837e81150
+
+Information sur le bloc
+
+Date du commit : 2018-02-20 18:38:20 +0100
+
+Committeur : Collectif Willforge
+
+Sha1 du blob courant :
+c2c5c5456faea8354c67477d24b4e7d3e95a8bb4
+
+Contenu de l’item courant :
+il ne devrait pas y avoir de SDF
+
+Justification de l’item courant :
+doléance
+
+Contenu de l’item précédent :
+no previous content
+
+Sha1 du bloc précédent :
+notanyprevioussha1inanynewblockcontent00
+
+
+Retour à la propriété Pas avoir SDF
+
+Retour à l’entrée Intérêt général
+
+
+License 

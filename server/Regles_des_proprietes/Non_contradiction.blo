@@ -1,0 +1,8 @@
+item_current_content :
+deux propriétés ne peuvent se contredire quelle que soit leur entrée
+item_current_justification :
+clarté
+item_previous_content :
+une propriété ne doit pas contredire une autre propriété de la même entrée
+block_previous_sha1 :
+67fd303d686382b840edb8bbfb1d0ec5b0205ba2
